@@ -28,4 +28,5 @@ project
 ## Functions Demo
 
 - vercel-functions-api-php - https://vercel-functions-api-php.vercel.app/
-- vercel-functions-api-php/api/file - https://vercel-functions-api-php.vercel.app/api/file/index
+- vercel-functions-api-php/api - https://vercel-functions-api-php.vercel.app/api/
+- vercel-functions-api-php/api/file - https://vercel-functions-api-php.vercel.app/api/file/
