@@ -1,4 +1,4 @@
-# vercel-functios-api-php
+# vercel-functions-api-php
 
 ## PHP Versions
 
