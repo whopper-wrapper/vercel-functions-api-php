@@ -17,11 +17,6 @@ project
 │   ├── file
 │   │   └── index.php
 │   └── index.php
-├── test
-│   ├── info
-│   │   └── phpinfo.php
-│   └── index.php
-├── index.php
 └── vercel.json
 ```
 
